@@ -24,7 +24,9 @@ I am an Embedded Systems Engineer passionate about low-level programming and emb
 
 I enjoy developing firmware on STM32 microcontrollers and working directly with hardware peripherals such as UART, SPI, I2C, CAN, Timers, EXTI and ADC.
 
-I also build IoT systems using ESP32 and embedded devices connected through different communication protocols.
+I also build IoT systems using ESP32 and connected devices communicating through protocols such as MQTT.
+
+For monitoring and visualization, I design dashboards using **Node-RED, Grafana and Qt5** to interact with embedded systems and display real-time data.
 
 ---
 
@@ -55,6 +57,12 @@ I also build IoT systems using ESP32 and embedded devices connected through diff
 - MQTT
 - TCP/IP
 
+### IoT & Data Visualization
+- MQTT
+- Node-RED (dashboard development)
+- Grafana
+- Qt5 (desktop dashboards and tools)
+
 ### Tools
 - STM32CubeIDE
 - Arduino IDE
@@ -68,10 +76,11 @@ I also build IoT systems using ESP32 and embedded devices connected through diff
 
 - Low-level firmware development
 - Microcontroller programming
-- IoT systems
+- IoT systems and connected devices
 - Embedded Linux
+- Data visualization dashboards
 - Hardware/software integration
 
 ---
 
-⭐ Always interested in Embedded Systems, IoT and low-level software development.
+⭐ Always interested in Embedded Systems, IoT, Edge Computing and low-level software development.
