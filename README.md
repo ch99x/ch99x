@@ -74,10 +74,4 @@ I also build IoT systems using ESP32 and embedded devices connected through diff
 
 ---
 
-## 📫 Contact
-
-📧 Email: cbenseghar@gmail.com  
-
----
-
 ⭐ Always interested in Embedded Systems, IoT and low-level software development.
